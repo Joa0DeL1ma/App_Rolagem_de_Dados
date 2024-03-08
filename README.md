@@ -1,4 +1,4 @@
-Esse projeto é o primeiro de alguns recomendados pelo Google para o aprendizado de Kotlin e Compose.
+Esse projeto é o segundo de alguns recomendados pelo Google para o aprendizado de Kotlin e Compose.
 
 - Nele irei construir um App que simula a rolagem de um dado.
 
